@@ -1,0 +1,9 @@
+.pageheader {
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: rgb(94, 32, 40);
+  background-color: white;
+}

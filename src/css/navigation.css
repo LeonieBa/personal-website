@@ -1,0 +1,8 @@
+.navigation {
+  height: 65px;
+  display: flex;
+  flex-direction: row (default);
+  justify-content: space-evenly;
+  align-items: center;
+  background-color: rgb(94, 32, 40);
+}
